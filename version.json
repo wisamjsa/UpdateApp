@@ -1,0 +1,17 @@
+{
+  "version": "1.0.3",
+  "url": "https://raw.githubusercontent.com/wisamjsa/UpdateApp/main/ReversalTestApp/ReleaseStable/AppFiles.zip",
+  "releaseNotes": "Bug fixes and performance improvements."
+}
+
+{
+  "url": "https://api.github.com/repos/wisamjsa/UpdateApp/releases/123456",
+  "tag_name": "v1.0.2",
+  "assets": [
+    {
+      "url": "https://api.github.com/repos/wisamjsa/UpdateApp/releases/assets/12345678",
+      "browser_download_url": "https://raw.githubusercontent.com/wisamjsa/UpdateApp/main/ReversalTestApp/ReleaseStable/AppFiles.zip",
+      "name": "ReversalUATAPP_v1.0.2.zip"
+    }
+  ]
+}
